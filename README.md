@@ -1,8 +1,10 @@
 # Đồ Án Xử Lý Ảnh: Phát Hiện và Giải Mã QR Code Trong Điều Kiện Khó Khăn
 
 **Môn học**: Xử Lý Ảnh  
-**Nhóm sinh viên**: [Tên các thành viên nhóm]  
-**Giảng viên hướng dẫn**: [Tên giảng viên]  
+**Nhóm sinh viên**:- Nguyễn Vũ Dũng
+                   - Khuất Trung Hiếu
+                   - Nguyễn Huy Hoàng
+**Giảng viên hướng dẫn**: Đào Việt Cường 
 **Năm học**: 2025-2026  
 
 ## Giới thiệu
@@ -17,12 +19,13 @@ Hệ thống sử dụng các kỹ thuật xử lý ảnh nâng cao (dựa trên
 - Lưu ảnh sau xử lý để phân tích.
 
 ## Cấu trúc projectda_xla/
+```
 da_xla/
 ├── qr_processor.py          # Module xử lý ảnh QR (pipeline tiền xử lý)
 ├── qr_evaluator.py          # Module giải mã và đánh giá hiệu suất
 ├── main.py                  # Chương trình chính - chạy thực nghiệm
 ├── references/              # Thư mục chứa các bài báo/tài liệu tham khảo (PDF)
-│   ├── Chen_2023_Dynamic_Illumination_Equalization.pdf
+│   ├── Chen2023.pdf
 │   ├── yao2018.pdf
 │   ├── cao2019.pdf
 │   └── hao2019.pdf
@@ -30,7 +33,7 @@ da_xla/
 ├── Bao_cao_ket_qua_QR.xlsx  # File báo cáo Excel (tự động sinh sau khi chạy)
 ├── anh_dau_vao/             # (Tùy chọn) Thư mục bạn copy ảnh cần test vào
 └── README.md                # File hướng dẫn 
-
+```
 
 
 
