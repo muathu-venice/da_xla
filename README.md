@@ -24,7 +24,7 @@ da_xla/
 ├── qr_processor.py          # Module xử lý ảnh QR (pipeline tiền xử lý)
 ├── qr_evaluator.py          # Module giải mã và đánh giá hiệu suất
 ├── main.py                  # Chương trình chính - chạy thực nghiệm
-├── references/              # Thư mục chứa các bài báo/tài liệu tham khảo (PDF)
+├── Bài báo tham khảo/              # Thư mục chứa các bài báo/tài liệu tham khảo (PDF)
 │   ├── Chen2023.pdf
 │   ├── yao2018.pdf
 │   ├── cao2019.pdf
@@ -82,4 +82,5 @@ Tài liệu tham khảo chính :
 2. R. Chen et al., "A Fast Adaptive Binarization Method for QR Code Images Based on Dynamic Illumination Equalization," Electronics, 2023.
 3. Z. Cao et al., "Robust Hazy QR Code Recognition based on Dehazing and Improved Adaptive Thresholding Method," IEEE CASE, 2019.
 4. P. Hao et al., "Low-Light Image Enhancement Based On Retinex and Saliency Theories," IEEE, 2019.
+
 
